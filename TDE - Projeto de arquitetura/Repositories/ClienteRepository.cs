@@ -1,4 +1,5 @@
-﻿using System.Data;
+﻿using MySql.Data.MySqlClient;
+using System.Data;
 using TDE___Projeto_de_arquitetura.Models;
 
 namespace TDE___Projeto_de_arquitetura.Repositories
